@@ -17,7 +17,7 @@ Skills: Java / / BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 👨‍💻 All of my projects are available at [https://github.com/swan-ahmed](https://github.com/swan-ahmed)
 
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
+- 📝 I regularly write articles on **Swan Ahmed**
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
